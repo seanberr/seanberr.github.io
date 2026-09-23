@@ -27,7 +27,9 @@ article {
 }
 
 .bounceback_article{
-    background: linear-gradient(135deg, #08295e, #5e0b24);
+    background: 
+        url("spiral_gradient.png") center / cover no-repeat,
+        linear-gradient(135deg, #08295e, #5e0b24);
     color: white;
 }
 

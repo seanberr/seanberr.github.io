@@ -29,7 +29,7 @@ article {
 .bounceback_article {
     background: 
         url("spiral_gradient.png") center / cover no-repeat,
-        linear-gradient(135deg, #08295e, #5e0b24);
+        linear-gradient(135deg, #1c5e0b, #0a6647);
     color: white;
 }
 

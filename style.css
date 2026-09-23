@@ -27,11 +27,24 @@ article {
 }
 
 .bounceback_article {
-    background: 
+    background:
         url("bubbles.png") repeat,
         url("vignette.png") center / cover no-repeat,
         linear-gradient(135deg, #1c5e0b, #0a6647);
+
     color: white;
+
+    animation: scrollTexture 20s linear infinite;
+}
+
+@keyframes scrollTexture {
+    from {
+        background-position: 0 0, center, center;
+    }
+
+    to {
+        background-position: 500px 500px, center, center;
+    }
 }
 
 a {

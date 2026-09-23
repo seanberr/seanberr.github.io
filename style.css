@@ -27,8 +27,8 @@ article {
 }
 
 .featured-article {
-background: linear-gradient(135deg, #08295e, #1e0d38);
-color: white;
+    background: linear-gradient(135deg, #08295e, #1e0d38);
+    color: white;
 }
 
 a {

@@ -26,7 +26,7 @@ article {
     border-radius: 8px;
 }
 
-.featured-article {
+.bounceback_article{
     background: linear-gradient(135deg, #08295e, #5e0b24);
     color: white;
 }

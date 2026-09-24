@@ -46,6 +46,11 @@ article {
         linear-gradient(135deg, #f2fffc, #d8e4f2);
 }
 
+.center-video {
+    display: block;
+    margin: 0 auto;
+    width: 640px;
+}
 @keyframes scrollTexture {
     from {
         background-position: 0 0, center, center;

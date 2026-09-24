@@ -5,8 +5,8 @@ body {
     padding: 40px 20px;
     line-height: 1.6;
     background:
-        url("border.png") left top / clamp(40px, 8vw, 100px) auto repeat-y,
-        url("border.png") right top / clamp(40px, 8vw, 100px) auto repeat-y;
+        url("dots.png") left top / clamp(40px, 8vw, 100px) auto repeat-y,
+        url("dots.png") right top / clamp(40px, 8vw, 100px) auto repeat-y;
 }
 
 header {

@@ -8,7 +8,7 @@ body {
     background:
         url("square.png") left top / clamp(40px, 8vw, 100px) auto repeat-y,
         url("square.png") right top / clamp(40px, 8vw, 100px) auto repeat-y,
-        url("dots.png") repeat,
+        url("dots3.png") repeat,
         linear-gradient(135deg, #34383f, #1f2633);
 }
 

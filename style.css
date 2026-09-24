@@ -9,7 +9,7 @@ body {
         url("square.png") left top / clamp(40px, 8vw, 100px) auto repeat-y,
         url("square.png") right top / clamp(40px, 8vw, 100px) auto repeat-y,
         url("dots3.png") repeat,
-        linear-gradient(0deg, #34383f, #171b26);
+        linear-gradient(90deg, #34383f, #171b26);
 }
 
 header {

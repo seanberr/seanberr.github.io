@@ -47,7 +47,7 @@ article {
 }
 .center-video {
     display: block;
-    margin: 0 auto;
+    margin: 20px auto;
     width: 100%;
     max-width: 640px;
     height: auto;

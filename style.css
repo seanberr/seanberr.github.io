@@ -37,7 +37,7 @@ article {
     animation: scrollTexture 20s linear infinite;
 }
 
-.bounceback_article {
+.header_article {
     background:
         url("dots.png") repeat,
         linear-gradient(135deg, #f2fffc, #d8e4f2);

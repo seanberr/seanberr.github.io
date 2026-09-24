@@ -21,6 +21,12 @@ h1 {
     font-size: 3rem;
 }
 
+a {
+  color: #fff;
+  text-decoration: underline;
+}
+
+
 section {
     margin: 60px 0;
 }

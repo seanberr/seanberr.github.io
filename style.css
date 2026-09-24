@@ -5,8 +5,8 @@ body {
     padding: 40px 20px;
     line-height: 1.6;
     background:
-        url("dots.png") left top / clamp(40px, 8vw, 100px) auto repeat-y,
-        url("dots.png") right top / clamp(40px, 8vw, 100px) auto repeat-y;
+        url("dots2.png") left top / clamp(40px, 8vw, 100px) auto repeat-y,
+        url("dots2.png") right top / clamp(40px, 8vw, 100px) auto repeat-y;
         linear-gradient(135deg, #1c5e0b, #0a6647);
 }
 

@@ -51,11 +51,12 @@ article {
     margin: 0 auto;
     width: 640px;
 }
-
 .center-image {
     display: block;
     margin: 0 auto;
     width: 640px;
+    max-width: 100%;
+    height: auto;
 }
 @keyframes scrollTexture {
     from {

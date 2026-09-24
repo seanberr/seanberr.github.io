@@ -37,6 +37,12 @@ article {
     animation: scrollTexture 20s linear infinite;
 }
 
+.bounceback_article {
+    background:
+        url("dots.png") repeat,
+        linear-gradient(135deg, #f2fffc, #d8e4f2);
+}
+
 @keyframes scrollTexture {
     from {
         background-position: 0 0, center, center;

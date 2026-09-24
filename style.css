@@ -43,7 +43,7 @@ article {
 .header_article {
     background:
         url("dots.png") repeat,
-        linear-gradient(135deg, #f2fffc, #d8e4f2);
+        linear-gradient(135deg, #fffbad, #f1d6ff);
 }
 
 .center-video {

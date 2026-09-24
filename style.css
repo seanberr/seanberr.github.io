@@ -29,7 +29,7 @@ article {
 .bounceback_article {
     background:
         url("bubbles.png") repeat,
-        url("distortedvignette.png") center / cover no-repeat,
+        url("distorted.vignette.png") center / cover no-repeat,
         linear-gradient(135deg, #1c5e0b, #0a6647);
 
     color: white;

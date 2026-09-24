@@ -45,11 +45,12 @@ article {
         url("dots.png") repeat,
         linear-gradient(135deg, #fffbad, #f1d6ff);
 }
-
 .center-video {
     display: block;
     margin: 0 auto;
-    width: 640px;
+    width: 100%;
+    max-width: 640px;
+    height: auto;
 }
 .center-image {
     display: block;

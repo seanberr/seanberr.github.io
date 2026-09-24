@@ -45,6 +45,7 @@ article {
 
 .header_article {
     background:
+        url("dots.png") repeat,
         url("header.png") center no-repeat,
         linear-gradient(135deg, #d6ffda, #f1d6ff);
 }

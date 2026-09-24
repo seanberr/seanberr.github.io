@@ -51,6 +51,12 @@ article {
     margin: 0 auto;
     width: 640px;
 }
+
+.center-image {
+    display: block;
+    margin: 0 auto;
+    width: 640px;
+}
 @keyframes scrollTexture {
     from {
         background-position: 0 0, center, center;

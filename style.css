@@ -62,7 +62,7 @@ article {
 
 .td_article {
     background:
-        url("midnightlogo.png") repeat,
+        url("unreallogo.png") repeat,
         url("dots.png") repeat,
         linear-gradient(135deg, #5a5b4d, #5b5040);
 
@@ -72,7 +72,7 @@ article {
 }
 .earthsent_article {
     background:
-        url("midnightlogo.png") repeat,
+        url("eyespider.png") repeat,
         url("dots.png") repeat,
         linear-gradient(135deg, #5d1131, #5f2c17);
 

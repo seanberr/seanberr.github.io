@@ -45,7 +45,7 @@ article {
     color: white;
     background:
         url("dots.png") repeat,
-        linear-gradient(135deg, #1c5e0b, #0a6647);
+        linear-gradient(135deg, #17A5F85, #4B4E73);
 }
 .center-video {
     display: block;

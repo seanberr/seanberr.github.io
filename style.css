@@ -4,6 +4,9 @@ body {
     margin: 0 auto;
     padding: 40px 20px;
     line-height: 1.6;
+    background:
+        url("border.png") left top / 100px 100% repeat-y,
+        url("border.png") right top / 100px 100% repeat-y;
 }
 
 header {

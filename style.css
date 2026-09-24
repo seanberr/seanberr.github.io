@@ -43,6 +43,17 @@ article {
     animation: scrollTexture 20s linear infinite;
 }
 
+.blindside_article {
+    background:
+        url("midnightlogo.png") repeat,
+        url("dots.png") repeat,
+        linear-gradient(135deg, #41395b, #4a2952);
+
+    color: white;
+
+    animation: scrollTexture 20s linear infinite;
+}
+
 .header_article {
     color: white;
     background:

@@ -4,10 +4,11 @@ body {
     margin: 0 auto;
     padding: 40px 20px;
     line-height: 1.6;
+    color: white;
     background:
         url("square.png") left top / clamp(40px, 8vw, 100px) auto repeat-y,
         url("square.png") right top / clamp(40px, 8vw, 100px) auto repeat-y,
-        linear-gradient(135deg, #8290a7, #6b7078);
+        linear-gradient(135deg, #34383f, #1f2633);
 }
 
 header {

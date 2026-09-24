@@ -43,7 +43,7 @@ article {
 
 .header_article {
     background:
-        url("header.png") center, no-repeat,
+        url("header.png") center no-repeat,
         linear-gradient(135deg, #d6ffda, #f1d6ff);
 }
 .center-video {

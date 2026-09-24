@@ -60,6 +60,27 @@ article {
     animation: scrollTexture 20s linear infinite;
 }
 
+.td_article {
+    background:
+        url("midnightlogo.png") repeat,
+        url("dots.png") repeat,
+        linear-gradient(135deg, #18441d, #09685d);
+
+    color: white;
+
+    animation: scrollTexture 20s linear infinite;
+}
+.earthsent_article {
+    background:
+        url("midnightlogo.png") repeat,
+        url("dots.png") repeat,
+        linear-gradient(135deg, #5d1131, #5f2c17);
+
+    color: white;
+
+    animation: scrollTexture 20s linear infinite;
+}
+
 .header_article {
     color: white;
     background:

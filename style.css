@@ -7,6 +7,7 @@ body {
     background:
         url("dots2.png") left top / clamp(40px, 8vw, 100px) auto repeat-y,
         url("dots2.png") right top / clamp(40px, 8vw, 100px) auto repeat-y,
+        url("dots.png") repeat,
         linear-gradient(135deg, #D1E6D4, #B8D9C4);
 }
 

@@ -7,7 +7,7 @@ body {
     background:
         url("square.png") left top / clamp(40px, 8vw, 100px) auto repeat-y,
         url("square.png") right top / clamp(40px, 8vw, 100px) auto repeat-y,
-        linear-gradient(135deg, #e6e6e6, #cbced1);
+        linear-gradient(135deg, #8290a7, #6b7078);
 }
 
 header {
